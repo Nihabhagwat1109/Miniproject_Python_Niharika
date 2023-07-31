@@ -13,4 +13,3 @@ elif days_in_month == 31:
 else:
     print(f"The month {calendar.month_name[month]} in {year} has {days_in_month} days.")
 
-print(calendar.calendar(year))
